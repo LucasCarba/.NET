@@ -1,0 +1,5 @@
+1 , 45688555 , fernandez , nicolas , 221584689 , belgrano 123 , nicof@gmail.com
+2 , 40223698 , albarracion , fernando , 221578963 , san martin 873 , fernando@gmail.com
+3 , 36578954 , perez , julieta , 221521478 , bolivar 654 , ju_p@gmail.com
+4 , 43565989 , bonifacio , dario , 221477895 , roca 59 , darioBonifacio@gmail.com
+
